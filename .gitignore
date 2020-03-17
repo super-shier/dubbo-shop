@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+.classpath
+.project
+target
+logs/*
+.settings
+.DS_Store
+tools/**/*
+dist
+.idea
+*.iml
+*.ipr
+*.iws
+classes/
+src/main/resources/rebel.xml
+git.sh
+rebel.xml
+/**/*.log
+/**/*.log.*
+*.zip
+node_modules
+
+
